@@ -19057,10 +19057,10 @@ const WT = [
       color: "bg-rose-200 dark:bg-rose-900",
       image: "/Prtfolio//assets/image/project-1-cover.png",
       packageImages: [
-        "/Prtfolio//assets/image/project-4-cover.png",
-        "/Prtfolio//assets/image/project-4-pkg-2.png",
-        "/Prtfolio//assets/image/project-4-pkg-3.jpg",
-        "/Prtfolio//assets/image/project-4-pkg-4.jpg",
+        "/Prtfolio//assets/image/project-1-pkg-1.png",
+        "/Prtfolio//assets/image/project-1-pkg-2.png",
+        "/Prtfolio//assets/image/project-1-pkg-3.png",
+        "/Prtfolio//assets/image/project-1-pkg-4.png",
       ],
     },
     {
@@ -19874,12 +19874,12 @@ function aA() {
                         children: "Find me here",
                       }),
                       w.jsxs("a", {
-                        href: "https://www.instagram.com/v0nor/",
+                        href: "https://www.instagram.com/berlin_vfx?igsh=Nzl4d3NndG1zZjU1&utm_source=qr",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className:
                           "flex items-center gap-3 font-sans font-medium hover:opacity-60 transition-opacity",
-                        children: [w.jsx(YT, { size: 24 }), " @v0nor"],
+                        children: [w.jsx(YT, { size: 24 }), " @berlin_vfx"],
                       }),
                       w.jsxs("a", {
                         href: "https://discord.com/users/ber.n",
